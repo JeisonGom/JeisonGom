@@ -38,7 +38,7 @@
 </span>
 
 
-## Check out my social media
+## Contact with me!
 <a href= "https://www.instagram.com/penta_______?igsh=dGllNjVjNnBpY3k3">
  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 <a href= "https://www.linkedin.com/in/jeison-g%C3%B3mez-7163a3365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
