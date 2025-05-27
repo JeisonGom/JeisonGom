@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**JeisonGom/JeisonGom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, im Jeison
+Hi, I'm Jeison  
+Backend Developer 
+I speak English and Spanish.  
 
-Here are some ideas to get you started:
+I enjoy building scalable systems and optimizing performance.  
+Always exploring new technologies to improve my skills.  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Technologies I work with:  
+- Python & FastAPI  
+- TypeScript & Node.js  
+- Java & Spring Boot  
+- SQL & NoSQL databases  
+- Docker & Kubernetes  
+- RESTful APIs & Microservices  
+
+ 
+Discord: penta__________48447  
+
+:)
